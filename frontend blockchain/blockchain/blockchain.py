@@ -19,7 +19,7 @@ MINING_SENDER = "THE BLOCKCHAIN"
 MINING_REWARD = 1
 MINING_DIFFICULTY = 2
 
-
+#test comment
 class Blockchain:
 
     def __init__(self):

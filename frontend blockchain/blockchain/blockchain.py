@@ -20,6 +20,7 @@ MINING_REWARD = 1
 MINING_DIFFICULTY = 2
 
 #test comment
+#test commemt2
 class Blockchain:
 
     def __init__(self):
